@@ -1,4 +1,13 @@
 # Gravitational-Capacitor-Model-2
+# WAM Hypothesis: Gravitational Capacitor Model 
+[![DOI](https://zenodo.org/badge/1021078239.svg)](https://doi.org/10.5281/zenodo.15996505)  🔭 *"Where antimatter meets dark energy in 5D"*
+
+### **Certified Science**  
+This DOI-registered theory proposes:  
+- **SNP hyperspace** as antimatter boundary  
+- **Gravifarad (GF)** units for cosmological capacitance  
+- Testable **G''/G anomalies** (compatible with ALPHA-g experiments)  
+
 Gravitational capacitor model unifying antimatter &amp; dark energy through 5D hyperspace (SNP). Predicts testable G''/G anomalies and Hubble tension resolution
 # WAM Hypothesis: Gravitational Capacitor Model  
 
