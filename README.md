@@ -1,7 +1,10 @@
 # Gravitational-Capacitor-Model-2
 # WAM Hypothesis: Gravitational Capacitor Model 
 [![DOI](https://zenodo.org/badge/1021078239.svg)](https://doi.org/10.5281/zenodo.15996505)  🔭 *"Where antimatter meets dark energy in 5D"*
-
+## 📜 Full Manuscript Access
+[![PDF Download](https://img.shields.io/badge/Download-PDF-%23009999?style=flat&logo=adobeacrobatreader)](https://github.com/ArkOkupski-WAT/Gravitational-Capacitor-Model-2/raw/main/Hipoteza_WAM_Moje_eng.pdf)  
+*Direct link to version-controlled PDF:*
+`https://github.com/ArkOkupski-WAT/Gravitational-Capacitor-Model-2/raw/main/Hipoteza_WAM_Moje_eng.pdf`
 ### **Certified Science**  
 This DOI-registered theory proposes:  
 - **SNP hyperspace** as antimatter boundary  
