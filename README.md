@@ -29,5 +29,16 @@ Key features:
 ---
 **v2.0 updates**:  
 - Complete English translation with DOI support  
-- Refined G-2 force equations  
+- Refined G-2 force equations
+
+### Recommended citation when using this work:
+```bibtex
+@software{Okupski_WAM_2024,
+  doi = {10.5281/zenodo.15996505},
+  url = {https://github.com/ArkOkupski-WAT/Gravitational-Capacitor-Model-2/raw/main/Hipoteza_WAM_Moje_eng.pdf},
+  author = {Okupski, Arkadiusz},
+  title = {WAM Hypothesis: Gravitational Capacitor Model},
+  publisher = {GitHub},
+  year = {2024}
+}
 - New numerical predictions for JWST/Euclid verification  
